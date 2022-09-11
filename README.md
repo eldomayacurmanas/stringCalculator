@@ -71,7 +71,7 @@ in the indice's value and adds up to a total sum variable the result of the form
 Then returns the total sum.
 
 ## other files
-There are also other files that shows examples of ways to use that function.
+There are also other files that shows examples of ways to use that function. And you are welcome to push your own real uses in this branch. The ones made by me are:
 
 ### examples.py 
 this file contains the examples given in this readme file, its up to you to execute it by youtself.
